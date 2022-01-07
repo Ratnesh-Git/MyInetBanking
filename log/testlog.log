@@ -125,3 +125,22 @@
 2018-11-27 07:55:42,851 - ebanking -INFO - providing customer details....
 2018-11-27 07:55:58,716 - ebanking -INFO - validation started....
 2018-11-27 07:55:58,749 - ebanking -INFO - test case passed....
+2022-01-07 17:30:10,117 - ebanking -INFO - URL is opened
+2022-01-07 17:30:10,269 - ebanking -INFO - Entered username
+2022-01-07 17:30:10,338 - ebanking -INFO - Entered password
+2022-01-07 17:30:19,850 - ebanking -INFO - User name is provided
+2022-01-07 17:30:19,929 - ebanking -INFO - Passsword is provided
+2022-01-07 17:40:01,953 - ebanking -INFO - URL is opened
+2022-01-07 17:40:02,055 - ebanking -INFO - Entered username
+2022-01-07 17:40:02,206 - ebanking -INFO - Entered password
+2022-01-07 17:40:08,433 - ebanking -INFO - User name is provided
+2022-01-07 17:40:08,492 - ebanking -INFO - Passsword is provided
+2022-01-07 17:53:15,257 - ebanking -INFO - URL is opened
+2022-01-07 17:53:15,347 - ebanking -INFO - Entered username
+2022-01-07 17:53:15,451 - ebanking -INFO - Entered password
+2022-01-07 17:53:17,453 - ebanking -INFO - Login test passed
+2022-01-07 17:53:21,707 - ebanking -INFO - User name is provided
+2022-01-07 17:53:21,816 - ebanking -INFO - Passsword is provided
+2022-01-07 17:53:27,802 - ebanking -INFO - providing customer details....
+2022-01-07 17:53:45,617 - ebanking -INFO - validation started....
+2022-01-07 17:53:45,643 - ebanking -INFO - test case passed....
